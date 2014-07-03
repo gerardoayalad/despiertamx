@@ -25,6 +25,9 @@
         <div class="fb-like-box" data-href="https://www.facebook.com/cafedespierta?fref=ts" data-width="100%" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="true" data-show-border="false"></div>
       </div>
       <div class="col-sm-6">
+<a class="twitter-timeline" href="https://twitter.com/cafedespierta" data-widget-id="484695802795663360">Tweets por @cafedespierta</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 
       </div>
     </div>
