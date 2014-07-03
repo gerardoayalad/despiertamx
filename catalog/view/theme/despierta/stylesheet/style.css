@@ -33,7 +33,7 @@
 	left: 5px;
 }
 .header{
-	background:rgba(255,255,255,0.10);
+	background:rgba(255,255,255,0.50);
 }
 .navbar {
 border-radius: 0px;
@@ -200,11 +200,12 @@ background: #006341;
 color: #FFFFFF;
 }
 #home-slider{
+	padding:20px;
 }
 #home-slider img{
-	padding: 20px;
--webkit-box-shadow: 0 6px 12px rgba(255, 255, 255, .175);
-box-shadow: 0 6px 12px rgba(255, 255, 255, .175);
+	border: 2px solid #006341;	
+	-webkit-box-shadow: 0 16px 12px #caca33;
+	box-shadow: 10px 16px 16px #caca33;
 }
 .img-modal{
 	float: left;
