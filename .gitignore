@@ -1,1 +1,9 @@
-system/
+system/cache/
+config.php
+admin/config.php
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
