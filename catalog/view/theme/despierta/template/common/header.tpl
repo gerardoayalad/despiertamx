@@ -76,7 +76,7 @@
               <input type="text" name="filter_name" class="form-control" value="<?php echo $text_search; ?>" onclick="this.value = '';" onkeydown="this.style.color = '#000000';" />
               <?php } ?>
           </div>
-          <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span> <?php echo $text_search ?></button>
+          <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search"></span> <?php echo $text_search ?></button>
           </form>
 
           <?php if ($logged) { ?>
