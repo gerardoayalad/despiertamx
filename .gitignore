@@ -1,10 +1,12 @@
 system/cache/
 config.php
 admin/config.php
+image/cache/
 
 # Logs and databases #
 ######################
 *.log
+*.txt
 *.sql
 *.sqlite
 
