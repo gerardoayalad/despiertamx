@@ -1,0 +1,58 @@
+Contribution: FaceBook Friends Suggestion
+Author: EasyStoreHosting.com
+Compatibility: opencart_v1.5.5.1
+
+====================================================================
+Create Facebook Application: (This is require for your Facebook Login Module)
+====================================================================
+1. Goto developers.facebook.com/apps site.
+2. After login into developers.facebook.com/apps site click on "+ Create New App"
+3. In the popup window enter your application Name (this will be displayed while getting user's information when they integrate with your store.) and click on continue button.
+4. Enter captcha code and continue.
+5. Now in the basic application information you get your Facebook App ID and Facebook App Secret.
+6. Do not forget to add your store URL into "Website with Facebook Login" at "Select how your app integrates with Facebook" section of your facebook application (this is required because without your store URL facebook will gives you error while any user signup with facebook).
+7. Once you add "Website with Facebook Login" click on "Save Changes" button. 
+
+====================================================================
+Install Instructions:
+====================================================================
+
+1. Back up the affected files, in case something goes wrong.
+2. Upload all files directly into your OpenCart root directory.
+3. Copy vqmod->xml->facebook_integrate_1.0.xml file into your vqmod->xml folder. 
+4. Go to store admin and install "Facebook Login" extension at Extensions => Modules
+5. Once it will be install successfully then click on edit link of "Facebook Login" in Extensions => Module
+6. Fill up all necessary content like "Facebook API Key" (copy Facebook App ID from your Facebook Application), "Facebook API Secret" (copy Facebook App Secret from your Facebook Application) and "Password Encryption Key".
+	- If you want to put default Facebook login button then put (<img src='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVYx0g7R3oFa1QHki2uR6O3kBCAMU0z8A9H-4GgAQyCHaU0yTb' align="middle">) this code into "Connect Button" field or you can put any other button by changing the source of <img> tag.
+	- If you want to show "Enable Facebook friend module" into your store then check "Yes".
+	- Add Layout where you want to display Facebook Login button by clicking on "Add Module" at bottom side of the page.
+	- If you want to display "Facebook Friend Module" at your product page then select "Product" and set the position, status and priority by clicking on "Add Module".
+		- i.e. I want to show Facebook Login button at my home page and in product page then I add two module one is Home and second one is Product (so in both the pages I can see Facebook login button but the Facebook Friend Module only display at Product page.)
+7. Save all the changes and check your store.
+
+====================================================================
+Sql patches:
+====================================================================
+
+Run below sql to your OpenCart database.
+
+ALTER TABLE `customer` ADD COLUMN `facebook_id` BIGINT(20) DEFAULT 0 AFTER `email`;
+
+====================================================================
+What is this?!
+====================================================================
+
+   Social Shopping adds a social layer to the online shopping experience, making shopping more fun and engaging by allowing shoppers to connect with the people they trust offline without leaving the retailer's site.
+
+Description
+Shopping with friends has always been popular amongst folks. Social shopping en-cashes this very fact and makes their shopping on your website unforgettable. Social shopping extension is specially designed to enhance the e-commerce shopping experience there by helping you achieve record breaking sales. When a user surfs a product in your e-store the extension connects with Facebook to show them their of friends who have already purchased similar products as theirs. The friends who have already purchased their product help them choose the best one based on their own shopping experience. This helps them to choose a product quickly and reduce the efforts and time they spend on product research. This will help the e-store retain and get more customers.
+
+Why do you need this extension?
+• Enhance user shopping experience and promote bulk selling 
+• Retain and increase sales on your e-commerce store
+• Offer something unique and new to the customer
+• Increase shoppers engagement with your site and products
+
+Features
+• Login with Facebook by facebook integration
+• Displays friends who have already purchased similar products from your e-store

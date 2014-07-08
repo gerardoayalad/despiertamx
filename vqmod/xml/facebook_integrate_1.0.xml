@@ -1,0 +1,41 @@
+<modification>
+    <id>OpenCart Facebook Integration 1.0</id>
+    <version>1.5.5.x</version>
+    <vqmver>2.3.2</vqmver>
+    <author>EasyStoreHosting.com</author>
+    <file name="catalog/model/account/customer.php" error="log">
+        <operation>
+            <search position="after">
+		<![CDATA[class ModelAccountCustomer extends Model {]]>
+            </search>
+            <add>
+		<![CDATA[public function addFBToCustomer($facebook_id,$email) {
+                $query = "UPDATE " . DB_PREFIX . "customer SET facebook_id=".(int)$facebook_id." WHERE email = '" . $this->db->escape($email) . "'";
+            $this->db->query($query);
+  	}
+        
+  	public function getFriendsCount($data) {
+                $check_friend_query = "SELECT COUNT(*) AS count FROM " . DB_PREFIX . "customer AS c, `order` AS o,order_product AS op WHERE c.facebook_id =" . (int) $data['fbuid'] . " AND o.customer_id = c.customer_id AND op.order_id = o.order_id AND op.product_id = " .(int)$data['product_id'];
+                $check_friend = $this->db->query($check_friend_query);
+                return $check_friend;
+  	}]]>
+            </add>
+        </operation>
+    </file>
+    <file name="admin/controller/extension/module.php" error="log">
+        <operation>
+            <search position="after">
+		<![CDATA[public function install() {]]>
+            </search>
+            <add>
+		<![CDATA[$query  = $this->db->query("SHOW COLUMNS FROM ".DB_PREFIX."customer LIKE 'facebook_id'");
+                $exists = (count($query->rows)) ? TRUE : FALSE;
+	
+		if(!$exists)
+                {
+                    $this->db->query("ALTER TABLE " . DB_PREFIX . "customer ADD COLUMN facebook_id BIGINT(20) DEFAULT 0 AFTER email") or die("Alter Error: ".mysql_error());
+		}]]>
+            </add>
+        </operation>
+    </file>
+</modification>

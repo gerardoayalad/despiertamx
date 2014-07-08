@@ -1,0 +1,25 @@
+<modification>
+    <id>OpenCart Facebook Integration 1.0</id>
+    <version>1.5.2.x</version>
+    <vqmver>2.1.5</vqmver>
+    <author>arvindlimbasiya</author>
+    <file name="catalog/model/account/customer.php">
+        <operation>
+            <search position="before">
+		<![CDATA[}?>]]>
+            </search>
+            <add>
+		<![CDATA[public function addFBToCustomer($facebook_id,$email) {
+                $query = "UPDATE " . DB_PREFIX . "customer SET facebook_id=".(int)$facebook_id." WHERE email = '" . $this->db->escape($email) . "'";
+            $this->db->query($query);
+  	}
+        
+  	public function getFriendsCount($data) {
+                $check_friend_query = "SELECT COUNT(*) AS count FROM " . DB_PREFIX . "customer AS c, `order` AS o,order_product AS op WHERE c.facebook_id =" . (int) $data['fbuid'] . " AND o.customer_id = c.customer_id AND op.order_id = o.order_id AND op.product_id = " .(int)$data['product_id'];
+                $check_friend = $this->db->query($check_friend_query);
+                return $check_friend;
+  	}]]>
+            </add>
+        </operation>
+    </file>
+</modification>

@@ -1,0 +1,18 @@
+<modification>
+	<id><![CDATA[Facebook-login-header]]></id>
+	<version><![CDATA[1.0]]></version>
+	<vqmver><![CDATA[2.1.5]]></vqmver>
+	<author><![CDATA[All Rights Reserved-BIDatw.com]]></author>
+    <file name="catalog/view/theme/*/template/common/header.tpl">
+        <operation>
+            <search position="before"><![CDATA[<div class="links">]]></search>
+            <add><![CDATA[
+           
+	    <?php foreach ($modules as $module) { ?>
+  <?php echo $module; ?>
+  <?php } ?>
+            ]]></add>
+        </operation>
+	</file>
+	
+</modification>

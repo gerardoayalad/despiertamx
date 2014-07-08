@@ -1,0 +1,62 @@
+<modification>
+	<id><![CDATA[Facebook-login-header]]></id>
+	<version><![CDATA[1.0]]></version>
+	<vqmver><![CDATA[2.1.5]]></vqmver>
+	<author><![CDATA[All Rights Reserved-BIDatw.com]]></author>
+	<file name="catalog/controller/common/header.php">
+		<operation>
+			<search position="before"><![CDATA[if (file_exists(DIR_TEMPLATE . $this->config->get('config_template') . '/template/common/header.tpl')) {]]></search>
+			<add><![CDATA[$this->load->model('design/layout');
+        $this->load->model('catalog/category');
+        $this->load->model('catalog/product');
+        $this->load->model('catalog/information');
+        
+        if (isset($this->request->get['route'])) {
+            $route = $this->request->get['route'];
+        } else {
+            $route = 'common/home';
+        }
+        
+        $module_data = array();
+        
+        $this->load->model('setting/extension');
+        
+        $extensions = $this->model_setting_extension->getExtensions('module');        
+        
+        foreach ($extensions as $extension) {
+            $modules = $this->config->get($extension['code'] . '_module');
+        
+            if ($modules) {
+                foreach ($modules as $module) {
+                    if ($module['position'] == 'content_header' && $module['status']) {
+                        $module_data[] = array(
+                            'code'       => $extension['code'],
+                            'setting'    => $module,
+                            'sort_order' => $module['sort_order']
+                        );                
+                    }
+                }
+            }
+        }
+        
+        $sort_order = array(); 
+      
+        foreach ($module_data as $key => $value) {
+              $sort_order[$key] = $value['sort_order'];
+        }
+        
+        array_multisort($sort_order, SORT_ASC, $module_data);
+        
+        $this->data['modules'] = array();
+        
+        foreach ($module_data as $module) {
+            $module = $this->getChild('module/' . $module['code'], $module['setting']);
+            
+            if ($module) {
+                $this->data['modules'][] = $module;
+            }
+        }  ]]></add>
+        </operation>
+	</file>
+	
+</modification>

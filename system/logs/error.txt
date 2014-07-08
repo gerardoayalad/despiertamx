@@ -1,0 +1,176 @@
+2014-06-21 4:46:16 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 4:46:29 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 4:46:33 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 4:46:55 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 4:47:43 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 4:48:57 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 4:49:08 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 4:57:10 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 4:57:22 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 4:57:46 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 4:57:49 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 5:06:38 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 5:06:51 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 5:06:57 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 5:07:04 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 6:53:10 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 6:53:24 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 6:53:26 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 6:54:10 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 6:54:33 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 6:54:46 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 6:57:00 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 7:12:26 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 11:30:02 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 12:59:28 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 14:33:12 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 14:53:58 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-21 23:48:21 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 16:19:38 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 16:43:19 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 19:55:35 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 19:57:13 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:07:17 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:35:07 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:35:18 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:40:25 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:42:04 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:42:49 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:43:06 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:43:27 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:47:13 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:47:15 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:47:18 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:48:05 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:48:12 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 20:51:08 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-22 21:59:30 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 0:17:54 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 0:21:33 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 0:41:21 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 0:41:24 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 0:42:59 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 0:47:59 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 0:56:10 - PHP Notice:  Undefined variable: news_category_data in /home/despiert/public_html/admin/model/fido/news.php on line 153
+2014-06-23 0:56:10 - PHP Warning:  Invalid argument supplied for foreach() in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 0:56:10 - PHP Warning:  Invalid argument supplied for foreach() in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 0:57:27 - PHP Notice:  Undefined index: category_id in /home/despiert/public_html/admin/model/fido/news.php on line 11
+2014-06-23 0:57:27 - PHP Notice:  Undefined index: category_id in /home/despiert/public_html/admin/model/fido/news.php on line 11
+2014-06-23 0:57:27 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/despiert/public_html/admin/index.php:85) in /home/despiert/public_html/vqmod/vqcache/vq2-system_engine_controller.php on line 28
+2014-06-23 0:57:27 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/despiert/public_html/admin/index.php:85) in /home/despiert/public_html/vqmod/vqcache/vq2-system_engine_controller.php on line 29
+2014-06-23 0:57:34 - PHP Notice:  Undefined variable: news_category_data in /home/despiert/public_html/admin/model/fido/news.php on line 153
+2014-06-23 0:57:34 - PHP Warning:  Invalid argument supplied for foreach() in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 0:57:34 - PHP Warning:  Invalid argument supplied for foreach() in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 0:57:36 - PHP Notice:  Undefined index: category_id in /home/despiert/public_html/admin/model/fido/news.php on line 11
+2014-06-23 0:57:36 - PHP Notice:  Undefined index: category_id in /home/despiert/public_html/admin/model/fido/news.php on line 11
+2014-06-23 0:57:36 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/despiert/public_html/admin/index.php:85) in /home/despiert/public_html/vqmod/vqcache/vq2-system_engine_controller.php on line 28
+2014-06-23 0:57:36 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/despiert/public_html/admin/index.php:85) in /home/despiert/public_html/vqmod/vqcache/vq2-system_engine_controller.php on line 29
+2014-06-23 0:57:38 - PHP Notice:  Undefined variable: news_category_data in /home/despiert/public_html/admin/model/fido/news.php on line 153
+2014-06-23 0:57:38 - PHP Warning:  Invalid argument supplied for foreach() in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 0:57:38 - PHP Warning:  Invalid argument supplied for foreach() in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 0:57:48 - PHP Notice:  Undefined variable: status in /home/despiert/public_html/admin/view/template/module/news/form-category.tpl on line 44
+2014-06-23 0:57:48 - PHP Notice:  Undefined variable: status in /home/despiert/public_html/admin/view/template/module/news/form-category.tpl on line 44
+2014-06-23 0:58:23 - PHP Notice:  Undefined index: 2 in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 0:58:23 - PHP Warning:  Invalid argument supplied for foreach() in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 0:58:44 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 0:58:47 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 1:02:48 - PHP Notice:  Undefined index: 2 in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 1:02:48 - PHP Warning:  Invalid argument supplied for foreach() in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 1:03:37 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 1:03:41 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 1:03:46 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 1:05:30 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 1:11:18 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 1:12:55 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 1:13:27 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 1:13:33 - PHP Notice:  A non well formed numeric value encountered in /home/despiert/public_html/system/library/image.php on line 86
+2014-06-23 1:13:33 - PHP Notice:  A non well formed numeric value encountered in /home/despiert/public_html/system/library/image.php on line 86
+2014-06-23 1:13:33 - PHP Notice:  A non well formed numeric value encountered in /home/despiert/public_html/system/library/image.php on line 97
+2014-06-23 1:13:33 - PHP Notice:  A non well formed numeric value encountered in /home/despiert/public_html/system/library/image.php on line 97
+2014-06-23 1:14:43 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 1:15:56 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 1:16:09 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 1:16:36 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 1:17:11 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 1:18:10 - PHP Notice:  Undefined index: 2 in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 1:18:10 - PHP Warning:  Invalid argument supplied for foreach() in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 1:18:10 - PHP Notice:  Undefined index: 2 in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 1:18:10 - PHP Warning:  Invalid argument supplied for foreach() in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 1:18:52 - PHP Notice:  Undefined index: 2 in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 1:18:52 - PHP Warning:  Invalid argument supplied for foreach() in /home/despiert/public_html/admin/view/template/module/news/form.tpl on line 33
+2014-06-23 2:09:28 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 2:09:38 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 2:15:39 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 2:16:27 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 2:17:00 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 2:17:09 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 2:17:33 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 2:19:04 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 2:53:01 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 13:14:30 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 15:26:47 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 17:07:01 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 17:11:09 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 17:25:16 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 19:10:52 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 22:10:40 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 22:54:33 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 22:55:30 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 22:55:46 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 22:55:49 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-23 23:15:25 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-24 1:47:37 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-24 1:47:56 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-24 11:25:52 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-24 17:03:30 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 4:29:31 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 4:49:28 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 10:06:23 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 10:06:31 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 10:06:34 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 10:06:37 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 10:06:43 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 10:07:10 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 10:07:14 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 10:07:17 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 10:07:22 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 10:07:30 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 10:07:33 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 10:07:35 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 10:07:41 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 11:13:34 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 15:30:49 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 15:37:54 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 16:23:46 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 17:18:34 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 17:19:00 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 17:44:09 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 17:45:30 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 17:46:31 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 19:01:33 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 19:55:30 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 21:13:57 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 21:15:28 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 21:50:29 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 22:07:50 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-25 22:08:30 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-26 4:12:49 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-26 4:12:53 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-06-26 4:13:16 - PHP Notice:  Undefined index: myfbapi_key in /home/despiert/public_html/catalog/view/theme/default/template/module/fbconnect.tpl on line 5
+2014-07-04 17:00:16 - PHP Notice:  Error: Could not load template /home/despiert/public_html/catalog/view/theme/default/template/module/magnorcms.tpl! in /home/despiert/public_html/vqmod/vqcache/vq2-system_engine_controller.php on line 90
+2014-07-04 17:00:21 - PHP Notice:  Error: Could not load template /home/despiert/public_html/catalog/view/theme/default/template/module/magnorcms.tpl! in /home/despiert/public_html/vqmod/vqcache/vq2-system_engine_controller.php on line 90
+2014-07-05 9:14:10 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 9:14:13 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 9:14:15 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 9:14:17 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 9:14:19 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 9:14:27 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 18:53:27 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 18:53:29 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 18:53:31 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 18:53:33 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 18:53:37 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 18:53:39 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 18:53:42 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 18:53:45 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
+2014-07-05 18:53:48 - PHP Notice:  Undefined variable: http_type in /home/despiert/public_html/catalog/view/theme/OPC060144/template/product/product.tpl on line 3
